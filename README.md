@@ -26,10 +26,7 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
-- ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
-  ```
+- Clone this [repository](https://github.com/100feetstudio/webapp) to your local machine 
 
 - Navigate to `cd portfolio---react`  directory.
 
