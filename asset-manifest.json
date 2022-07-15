@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webapp/static/css/main.4919bf97.css",
-    "main.js": "/webapp/static/js/main.7c316a0f.js",
+    "main.css": "/webapp/static/css/main.5e08e56f.css",
+    "main.js": "/webapp/static/js/main.e769c2d1.js",
     "static/media/news.png": "/webapp/static/media/news.51439179fb611dbbc400.png",
     "static/media/shelter.png": "/webapp/static/media/shelter.0ae0fda60971cc0e12a4.png",
     "static/media/fake.png": "/webapp/static/media/fake.8e617936ab1f7320886e.png",
@@ -11,11 +11,11 @@
     "static/media/math.png": "/webapp/static/media/math.dda088e8d9f35030227c.png",
     "static/media/bookstore.png": "/webapp/static/media/bookstore.9ccca64e16bf562c3108.png",
     "index.html": "/webapp/index.html",
-    "main.4919bf97.css.map": "/webapp/static/css/main.4919bf97.css.map",
-    "main.7c316a0f.js.map": "/webapp/static/js/main.7c316a0f.js.map"
+    "main.5e08e56f.css.map": "/webapp/static/css/main.5e08e56f.css.map",
+    "main.e769c2d1.js.map": "/webapp/static/js/main.e769c2d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.4919bf97.css",
-    "static/js/main.7c316a0f.js"
+    "static/css/main.5e08e56f.css",
+    "static/js/main.e769c2d1.js"
   ]
 }
